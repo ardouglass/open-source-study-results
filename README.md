@@ -1,6 +1,6 @@
 # Open Source Study Results
 
-The file [results.csv](results.csv) in this repository contains the coded and anonymized survey results from https://opensource.study.
+The file [results.csv](results.csv) in this repository contains the coded and anonymized survey results from https://opensource.study. This readme documents the columns and the meaning of the data inside them below.
 
 ## Columns
 
